@@ -1,0 +1,15 @@
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/bin/Debug/net8.0/Q3
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/bin/Debug/net8.0/Q3.deps.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/bin/Debug/net8.0/Q3.runtimeconfig.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/bin/Debug/net8.0/Q3.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/bin/Debug/net8.0/Q3.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.AssemblyInfoInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.AssemblyInfo.cs
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.csproj.CoreCompileInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.sourcelink.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/refint/Q3.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/Q3.genruntimeconfig.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q3/obj/Debug/net8.0/ref/Q3.dll
