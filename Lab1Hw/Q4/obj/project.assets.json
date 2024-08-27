@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q4/Q4.csproj",
+      "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/Q4.csproj",
       "projectName": "Q4",
-      "projectPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q4/Q4.csproj",
+      "projectPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/Q4.csproj",
       "packagesPath": "/Users/ham/.nuget/packages/",
-      "outputPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q4/obj/",
+      "outputPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ham/.nuget/NuGet/NuGet.Config"

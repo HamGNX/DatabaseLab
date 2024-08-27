@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/MyProject.csproj",
+      "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/CsharpLab/MyProject/MyProject.csproj",
       "projectName": "MyProject",
-      "projectPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/MyProject.csproj",
+      "projectPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/MyProject/MyProject.csproj",
       "packagesPath": "/Users/ham/.nuget/packages/",
-      "outputPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/",
+      "outputPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/MyProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ham/.nuget/NuGet/NuGet.Config"

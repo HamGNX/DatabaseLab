@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Q1
-build_property.ProjectDir = /Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/
+build_property.ProjectDir = /Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

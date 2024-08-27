@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/Q1.csproj": {}
+    "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/Q1.csproj": {}
   },
   "projects": {
-    "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/Q1.csproj": {
+    "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/Q1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/Q1.csproj",
+        "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/Q1.csproj",
         "projectName": "Q1",
-        "projectPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/Q1.csproj",
+        "projectPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/Q1.csproj",
         "packagesPath": "/Users/ham/.nuget/packages/",
-        "outputPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q1/obj/",
+        "outputPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ham/.nuget/NuGet/NuGet.Config"

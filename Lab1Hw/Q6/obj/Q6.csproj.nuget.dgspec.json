@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q6/Q6.csproj": {}
+    "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/Q6.csproj": {}
   },
   "projects": {
-    "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q6/Q6.csproj": {
+    "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/Q6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q6/Q6.csproj",
+        "projectUniqueName": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/Q6.csproj",
         "projectName": "Q6",
-        "projectPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q6/Q6.csproj",
+        "projectPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/Q6.csproj",
         "packagesPath": "/Users/ham/.nuget/packages/",
-        "outputPath": "/Users/ham/Documents/Visual Studio Code/C#Lab/Lab1Hw/Q6/obj/",
+        "outputPath": "/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ham/.nuget/NuGet/NuGet.Config"
