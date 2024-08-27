@@ -1,0 +1,14 @@
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/bin/Debug/net8.0/MyProject
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/bin/Debug/net8.0/MyProject.deps.json
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/bin/Debug/net8.0/MyProject.runtimeconfig.json
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/bin/Debug/net8.0/MyProject.dll
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/bin/Debug/net8.0/MyProject.pdb
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.dll
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/refint/MyProject.dll
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.pdb
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/MyProject.genruntimeconfig.cache
+/Users/ham/Documents/Visual Studio Code/C#Lab/MyProject/obj/Debug/net8.0/ref/MyProject.dll
