@@ -1,0 +1,15 @@
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.AssemblyInfoInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.AssemblyInfo.cs
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.csproj.CoreCompileInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.sourcelink.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/bin/Debug/net8.0/Q4
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/bin/Debug/net8.0/Q4.deps.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/bin/Debug/net8.0/Q4.runtimeconfig.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/bin/Debug/net8.0/Q4.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/bin/Debug/net8.0/Q4.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/refint/Q4.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/Q4.genruntimeconfig.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q4/obj/Debug/net8.0/ref/Q4.dll
