@@ -1,0 +1,15 @@
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/bin/Debug/net8.0/Q6
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/bin/Debug/net8.0/Q6.deps.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/bin/Debug/net8.0/Q6.runtimeconfig.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/bin/Debug/net8.0/Q6.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/bin/Debug/net8.0/Q6.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.AssemblyInfoInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.AssemblyInfo.cs
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.csproj.CoreCompileInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.sourcelink.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/refint/Q6.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/Q6.genruntimeconfig.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q6/obj/Debug/net8.0/ref/Q6.dll
