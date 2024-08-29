@@ -1,0 +1,15 @@
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/bin/Debug/net8.0/Q5
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/bin/Debug/net8.0/Q5.deps.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/bin/Debug/net8.0/Q5.runtimeconfig.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/bin/Debug/net8.0/Q5.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/bin/Debug/net8.0/Q5.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.AssemblyInfoInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.AssemblyInfo.cs
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.csproj.CoreCompileInputs.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.sourcelink.json
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/refint/Q5.dll
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.pdb
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/Q5.genruntimeconfig.cache
+/Users/ham/Documents/Visual Studio Code/CsharpLab/Lab1Hw/Q5/obj/Debug/net8.0/ref/Q5.dll
