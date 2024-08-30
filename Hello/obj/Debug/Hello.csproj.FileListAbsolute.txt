@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\bin\Debug\Hello.exe.config
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\bin\Debug\Hello.exe
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\bin\Debug\Hello.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.Form1.resources
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.exe
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.Form2.resources
+\\Mac\Home\Documents\GitHub\CsharpLab\Hello\obj\Debug\Hello.Form3.resources
