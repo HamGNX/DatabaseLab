@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\bin\Debug\Lab2Hw.exe.config
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\bin\Debug\Lab2Hw.exe
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\bin\Debug\Lab2Hw.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.Form1.resources
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.exe
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.pdb
+\\Mac\Home\Documents\GitHub\CsharpLab\Lab2Hw\obj\Debug\Lab2Hw.Form2.resources

@@ -86,8 +86,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs [Design]*",
+              "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T14:27:35.082Z",
               "EditorCaption": " [Design]"
@@ -98,9 +98,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\GitHub\\CsharpLab\\Hello\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-29T14:33:55.484Z",
               "EditorCaption": ""
