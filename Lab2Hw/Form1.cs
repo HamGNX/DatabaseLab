@@ -124,6 +124,8 @@ namespace Lab2Hw
             userProfileForm.Show();
             this.Hide();
             userProfileForm.FormClosed += (s, args) => Application.Exit();
+            
+            //done
         }
     }
 }
