@@ -118,7 +118,7 @@ namespace Lab2Hw
             string welcomemassage = $"Hi!! {txtFname.Text} {txtLname.Text}";
             userProfileForm.UpdateLabel(welcomemassage);
 
-            string stat = $"We are glad to welcome you as one of the {selectedRole}.";
+            string stat = $"We are glad to welcome you as one of the {selectedRole}s.";
             userProfileForm.UpdateStat(stat);
 
             userProfileForm.Show();
