@@ -150,33 +150,48 @@ ALTER TABLE `teaches`
 -- Constraints for table `course`
 --
 ALTER TABLE `course`
-  ADD CONSTRAINT `course_ibfk_1` FOREIGN KEY (`dept_code`) REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
+  ADD CONSTRAINT `course_ibfk_1` 
+  FOREIGN KEY (`dept_code`) 
+  REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
 
 --
 -- Constraints for table `instructor`
 --
 ALTER TABLE `instructor`
-  ADD CONSTRAINT `instructor_ibfk_1` FOREIGN KEY (`dept_code`) REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
+  ADD CONSTRAINT `instructor_ibfk_1` 
+  FOREIGN KEY (`dept_code`) 
+  REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
 
 --
 -- Constraints for table `salary`
 --
 ALTER TABLE `salary`
-  ADD CONSTRAINT `salary_ibfk_1` FOREIGN KEY (`instructor_ID`) REFERENCES `instructor` (`instructor_ID`) ON DELETE CASCADE ON UPDATE CASCADE,
-  ADD CONSTRAINT `salary_ibfk_2` FOREIGN KEY (`dept_code`) REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
+  ADD CONSTRAINT `salary_ibfk_1` 
+  FOREIGN KEY (`instructor_ID`) 
+  REFERENCES `instructor` (`instructor_ID`) 
+  ON DELETE CASCADE ON UPDATE CASCADE,
+  ADD CONSTRAINT `salary_ibfk_2` 
+  FOREIGN KEY (`dept_code`) 
+  REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
 
 --
 -- Constraints for table `student`
 --
 ALTER TABLE `student`
-  ADD CONSTRAINT `student_ibfk_1` FOREIGN KEY (`dept_code`) REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
+  ADD CONSTRAINT `student_ibfk_1` 
+  FOREIGN KEY (`dept_code`) 
+  REFERENCES `department` (`dept_code`) ON UPDATE CASCADE;
 
 --
 -- Constraints for table `teaches`
 --
 ALTER TABLE `teaches`
-  ADD CONSTRAINT `teaches_ibfk_1` FOREIGN KEY (`instructor_ID`) REFERENCES `instructor` (`instructor_ID`) ON DELETE CASCADE ON UPDATE CASCADE,
-  ADD CONSTRAINT `teaches_ibfk_2` FOREIGN KEY (`course_ID`) REFERENCES `course` (`course_ID`) ON DELETE CASCADE ON UPDATE CASCADE;
+  ADD CONSTRAINT `teaches_ibfk_1` 
+  FOREIGN KEY (`instructor_ID`) 
+  REFERENCES `instructor` (`instructor_ID`) ON DELETE CASCADE ON UPDATE CASCADE,
+  ADD CONSTRAINT `teaches_ibfk_2` 
+  FOREIGN KEY (`course_ID`) 
+  REFERENCES `course` (`course_ID`) ON DELETE CASCADE ON UPDATE CASCADE;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
