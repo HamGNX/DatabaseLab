@@ -1,0 +1,186 @@
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Signup.exe
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Signup.deps.json
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Signup.runtimeconfig.json
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Signup.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Signup.pdb
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.AssemblyReference.cache
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.GenerateResource.cache
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfoInputs.cache
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfo.cs
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CoreCompileInputs.cache
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.dll
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\refint\Signup.dll
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.pdb
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.genruntimeconfig.cache
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\ref\Signup.dll
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.signup.resources
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.userpage.resources
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\kbash\Downloads\Signup\Signup\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CopyComplete
+C:\Users\kbash\Downloads\Signup\Signup\obj\Debug\net6.0-windows\Signup.updatepage.resources
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.exe
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.deps.json
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.runtimeconfig.json
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.pdb
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.AssemblyReference.cache
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.signup.resources
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.updatepage.resources
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.userpage.resources
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.GenerateResource.cache
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfoInputs.cache
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfo.cs
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CoreCompileInputs.cache
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.Up2Date
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\refint\Signup.dll
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.pdb
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.genruntimeconfig.cache
+E:\SIIT TA\database\Database Programming 2023\Lab 06\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\ref\Signup.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.AssemblyReference.cache
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.signup.resources
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.updatepage.resources
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.userpage.resources
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.GenerateResource.cache
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfoInputs.cache
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfo.cs
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CoreCompileInputs.cache
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\refint\Signup.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.pdb
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.exe
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.deps.json
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.runtimeconfig.json
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Signup.pdb
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.Up2Date
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\Signup.genruntimeconfig.cache
+E:\SIIT TA\database\For TA _ Instructors exercise in class - studentversion\Signup\Signup\obj\Debug\net6.0-windows\ref\Signup.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Signup.exe
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Signup.deps.json
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Signup.runtimeconfig.json
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Signup.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Signup.pdb
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.AssemblyReference.cache
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.signup.resources
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.updatepage.resources
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.userpage.resources
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.GenerateResource.cache
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfoInputs.cache
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfo.cs
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CoreCompileInputs.cache
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.Up2Date
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\refint\Signup.dll
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.pdb
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\Signup.genruntimeconfig.cache
+C:\Users\bhoon\OneDrive\Desktop\SIIT\CSS326\Lab06\For exercise in class - student version\Signup\Signup\obj\Debug\net6.0-windows\ref\Signup.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Signup.exe
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Signup.deps.json
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Signup.runtimeconfig.json
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Signup.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Signup.pdb
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\Google.Protobuf.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\MySql.Data.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\System.Text.Json.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\ZstdSharp.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.signup.resources
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.updatepage.resources
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.userpage.resources
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.AssemblyInfo.cs
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.sourcelink.json
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.csproj.Up2Date
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\refint\Signup.dll
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.pdb
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\Signup.genruntimeconfig.cache
+\\Mac\Home\Documents\Visual Studio Code\CsharpLab\6522781002-Assignment06\Signup\Signup\obj\Debug\net6.0-windows\ref\Signup.dll

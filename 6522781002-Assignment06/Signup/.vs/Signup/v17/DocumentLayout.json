@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\infodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\signup\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\updatepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\mac\\home\\documents\\visual studio code\\csharplab\\6522781002-assignment06\\signup\\signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\signup\\updatepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA142618-E309-47EE-A70C-FE79D009102D}|Signup\\Signup.csproj|\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\signup\\userpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Signup\\Form1.Designer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Form1.Designer.cs",
+              "RelativeToolTip": "Signup\\Form1.Designer.cs",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAQwHABAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:41:21.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Form1.cs",
+              "RelativeDocumentMoniker": "Signup\\Form1.cs",
+              "ToolTip": "C:\\Users\\bhoon\\OneDrive\\Desktop\\SIIT\\CSS326\\Lab06\\For exercise in class - student version\\Signup\\Signup\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:46:35.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Form1.cs",
+              "RelativeDocumentMoniker": "Signup\\Form1.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Form1.cs",
+              "RelativeToolTip": "Signup\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:31:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "updatepage.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\updatepage.cs",
+              "RelativeDocumentMoniker": "Signup\\updatepage.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\updatepage.cs",
+              "RelativeToolTip": "Signup\\updatepage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:11:18.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userpage.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\userpage.cs",
+              "RelativeDocumentMoniker": "Signup\\userpage.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\userpage.cs",
+              "RelativeToolTip": "Signup\\userpage.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:34:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "infoDAO.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\infoDAO.cs",
+              "RelativeDocumentMoniker": "Signup\\infoDAO.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\infoDAO.cs",
+              "RelativeToolTip": "Signup\\infoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:30:30.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "info.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\info.cs",
+              "RelativeDocumentMoniker": "Signup\\info.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\info.cs",
+              "RelativeToolTip": "Signup\\info.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:30:28.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Program.cs",
+              "RelativeDocumentMoniker": "Signup\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\Program.cs",
+              "RelativeToolTip": "Signup\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:28:29.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "userpage.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\userpage.cs",
+              "RelativeDocumentMoniker": "Signup\\userpage.cs",
+              "ToolTip": "C:\\Users\\bhoon\\OneDrive\\Desktop\\SIIT\\CSS326\\Lab06\\For exercise in class - student version\\Signup\\Signup\\userpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:30:34.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "updatepage.cs [Design]",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\Visual Studio Code\\CsharpLab\\6522781002-Assignment06\\Signup\\Signup\\updatepage.cs",
+              "RelativeDocumentMoniker": "Signup\\updatepage.cs",
+              "ToolTip": "C:\\Users\\bhoon\\OneDrive\\Desktop\\SIIT\\CSS326\\Lab06\\For exercise in class - student version\\Signup\\Signup\\updatepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:30:33.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
