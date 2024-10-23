@@ -189,3 +189,39 @@ h2{
 .center{
 	text-align:center;
 }
+
+
+/* Style for the list inside the box */
+.link-box ul {
+    list-style-type: none;      
+    padding: 0;                 
+    margin: 0;                  
+	text-align:center;
+}
+
+/* Each list item takes up a full row */
+.link-box li {
+    margin: 10px 0;             
+
+}
+
+
+.link-box a {
+    display: block;             
+    text-decoration: none;      
+    color: white;              
+    font-weight: bold;          
+    font-size: 18px;            
+    padding: 10px;             
+    background-color: #F27C38; 
+    border-radius: 5px;        
+	
+}
+
+
+.link-box a:hover {
+    background-color: #BF491F; 
+    color: white;               
+    text-decoration: underline; 
+
+}
