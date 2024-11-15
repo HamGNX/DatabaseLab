@@ -1,6 +1,6 @@
-SELECT ABS(-25) AS Absolute_Value,  
-       PI() AS Pi_Value,  
-       POW(2, 5) AS Power_Calculation;
+SELECT  ABS(-25) AS Absolute_Value,  
+        PI() AS Pi_Value,  
+        POW(2, 5) AS Power_Calculation;
 
 -- Create products table
 CREATE TABLE products ( 
@@ -18,22 +18,22 @@ INSERT INTO products (product_id, product_name, price) VALUES
 (5, 'Printer', 120.00);
 
 -- Query for min, max, and average prices
-SELECT MIN(price) AS Minimum_Price,  
-       MAX(price) AS Maximum_Price,  
-       AVG(price) AS Average_Price  
+SELECT  MIN(price) AS Minimum_Price,  
+        MAX(price) AS Maximum_Price,  
+        AVG(price) AS Average_Price  
 FROM products;
 
-SELECT LENGTH('DatabaseProgramming') AS String_Length,  
-       UPPER('DatabaseProgramming') AS Uppercase_String,  
-       REVERSE('DatabaseProgramming') AS Reversed_String;
+SELECT  LENGTH('DatabaseProgramming') AS String_Length,  
+        UPPER('DatabaseProgramming') AS Uppercase_String,  
+        REVERSE('DatabaseProgramming') AS Reversed_String;
 
-SELECT NOW() AS Current_DateTime,  
-       YEAR('2023-11-14') AS Year_Extracted,  
-       DATEDIFF('2024-01-01', '2023-11-14') AS Days_Between;
+SELECT  NOW() AS Current_DateTime,  
+        YEAR('2023-11-14') AS Year_Extracted,  
+        DATEDIFF('2024-01-01', '2023-11-14') AS Days_Between;
 
-SELECT VERSION() AS MySQL_Version,  
-       DATABASE() AS Current_Database,  
-       USER() AS CurrentUser;
+SELECT  VERSION() AS MySQL_Version,  
+        DATABASE() AS Current_Database,  
+        USER() AS CurrentUser;
 
 DELIMITER //
 CREATE FUNCTION square(num INT)  
@@ -57,8 +57,8 @@ END //
 DELIMITER ;
 
 -- Test the function
-SELECT calculate_discount(250, 10) AS Price_after_10_percent_discount,
-       calculate_discount(250, 15) AS Price_after_15_percent_discount;
+SELECT  calculate_discount(250, 10) AS Price_after_10_percent_discount,
+        calculate_discount(250, 15) AS Price_after_15_percent_discount;
 
 DELIMITER //
 CREATE FUNCTION is_even(num INT) 
@@ -92,9 +92,9 @@ END //
 DELIMITER ;
 
 -- Test the function
-SELECT customer_category(600) AS Category_600,
-       customer_category(300) AS Category_300,
-       customer_category(50) AS Category_50;
+SELECT  customer_category(600) AS Category_600,
+        customer_category(300) AS Category_300,
+        customer_category(50) AS Category_50;
 
 -- Create employees table
 CREATE TABLE employees ( 
